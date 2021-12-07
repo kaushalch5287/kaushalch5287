@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaushalch5287
-- 👀 I’m interested in ...gaining knowledge
+- 👀 I’m interested in ...explore new things
 - 🌱 I’m currently learning ...c language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email
